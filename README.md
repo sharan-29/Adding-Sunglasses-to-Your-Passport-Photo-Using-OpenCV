@@ -1,4 +1,4 @@
-# Adding Sunglasses to Your Passport Photo Using OpenCV
+# Workshop -1 Adding Sunglasses to Your Passport Photo Using OpenCV
 
 **Name :** Sharan Kumar G  
 **Reg No:** 212224230260
